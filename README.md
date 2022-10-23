@@ -24,6 +24,9 @@ Thanks to the European Union's General Data Protection Regulation (GDPR) require
 1. Head to Apple’s Data and Privacy log in page
 2. Log in with the Apple ID for which you’d like to download data
 3. Under Get a copy of your data, click Get Started
-4. 
-5. Select the data you’d like, 'App Store, Itunes, Apple Music' and the maximum file size, then click Complete Request
+<img width="1157" alt="Screenshot 2022-10-23 at 1 31 46 AM" src="https://user-images.githubusercontent.com/116476247/197375971-c6eff7d3-d335-418e-a644-bbce028f237f.png">
+4. Select the data you’d like, 'App Store, Itunes Store, Apple Books and Apple Music'
+<img width="1055" alt="Screenshot 2022-10-23 at 1 31 54 AM" src="https://user-images.githubusercontent.com/116476247/197375987-cf6f289a-ac05-4f0a-98b9-a2505392503b.png">
+5. Choose the maximum default file size and click on Complete Request
+<img width="705" alt="Screenshot 2022-10-23 at 1 32 00 AM" src="https://user-images.githubusercontent.com/116476247/197375990-0153f2a4-2a66-4eac-83e8-eb9c69abe0b3.png">
 

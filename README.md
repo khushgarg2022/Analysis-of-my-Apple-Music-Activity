@@ -9,9 +9,18 @@ Researchers have found that the type of music you listen to may be even connecte
 
 #Technologies Used: Python
 
-#Skills: Data Extraction, Data Cleaning and Wrangling, Data Manipulation
+#Skills: Data Extraction, Data preparation: Data Cleaning and Wrangling and Data Manipulation
 
 #Libraries: NumPy, Pandas, Matplotlib
 
 #Certifications:
+
+
+##Data Extraction:
+Thanks to the European Union's General Data Protection Regulation (GDPR) requirements which were established in 2018, users have the right to access their personal data which includes information like basic identity information, webdata like location, IP addresses, cookie data. You can now request an electronic copy of your personal data, free of charge, upon request and can even inquire about how your data is used, stored, processed or transferred to other organizations. I have been an Apple Music user since 2021 and when I found out that I could request an archive with all my usage data since 2021, I requested a copy of my data following the required steps:
+
+1. Head to Apple’s Data and Privacy log in page
+2. Log in with the Apple ID for which you’d like to download data
+3. Under Get a copy of your data, click Get Started
+4. Select the data you’d like, 'App Store, Itunes, Apple Music' and the maximum file size, then click Complete Request
 

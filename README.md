@@ -19,7 +19,7 @@ Researchers have found that the type of music you listen to may be even connecte
 
 
 ## Data Extraction:
-Thanks to the European Union's General Data Protection Regulation (GDPR) requirements which were established in 2018, users have the right to access their personal data which includes information like basic identity information, webdata like location, IP addresses, cookie data. You can now request an electronic copy of your personal data, free of charge, upon request and can even inquire about how your data is used, stored, processed or transferred to other organizations. I have been an Apple Music user since 2021 and when I found out that I could request an archive with all my usage data since 2021, I requested a copy of my data following the required steps:
+Thanks to the European Union's General Data Protection Regulation (GDPR) requirements which were established in 2018, users have the right to access their personal data which includes information like basic identity information, webdata like location, IP addresses, cookie data. You can now request an electronic copy of your personal data, free of charge, upon request and can even inquire about how your data is used, stored, processed or transferred to other organizations. Every year, Spotify releases 'Spotify Wrapped' which is a feature completely driven by data collected by the Spotify platform to curate the 'perfect playlist'. However, Apple Music doesn't have this feature  and I have been a loyal Apple Music user since 2021. When I found out that I could request an archive with all my usage data since 2021, I requested a copy of my data following the required steps:
 
 1. Head to Apple’s Data and Privacy log in page
 2. Log in with the Apple ID for which you’d like to download data

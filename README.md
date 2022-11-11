@@ -19,7 +19,19 @@ Researchers have found that the type of music you listen to may be even connecte
 
 ## Certifications:
 
-1. Data manipulation with Python: DataCamp
+1. Data Manipulation with Python: DataCamp
+2. Data Analysis with Python : DataCamp
+3. Data Analysis with Python: Coursera
+4. Data Visualization with Python: Coursera
+5. The Ultimate Pandas BootCamp: Udemy
+6. Complete Course on Data Visualization: Udemy
+7. Python for Data Science and Machine Learning: Udemy
+8. 2022 Python BootCamp: Udemy
+9. Python A-Z: Udemy
+
+## Professional Certifications:
+1. Data Analyst: IBM
+2. Data Scientist: IBM
 
 
 

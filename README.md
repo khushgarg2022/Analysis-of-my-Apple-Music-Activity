@@ -28,6 +28,8 @@ Researchers have found that the type of music you listen to may be even connecte
 7. Python for Data Science and Machine Learning: Udemy
 8. 2022 Python BootCamp: Udemy
 9. Python A-Z: Udemy
+10. Pandas: Certification
+11. NumPy: Certification
 
 ## Professional Certifications:
 1. Data Analyst: IBM

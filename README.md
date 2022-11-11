@@ -13,6 +13,7 @@ Researchers have found that the type of music you listen to may be even connecte
 1. Data Extraction
 2. Data Manipulation: Data Cleaning and Wrangling 
 3. Feature Construction
+4. Data Visualization
 
 ## Libraries: NumPy, Pandas, Matplotlib
 

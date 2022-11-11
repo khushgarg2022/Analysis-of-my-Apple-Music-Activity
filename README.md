@@ -19,6 +19,8 @@ Researchers have found that the type of music you listen to may be even connecte
 
 ## Certifications:
 
+1. Data manipulation with Python: DataCamp
+
 
 
 ## Data Extraction:

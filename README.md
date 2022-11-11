@@ -11,11 +11,13 @@ Researchers have found that the type of music you listen to may be even connecte
 
 ## Skills: 
 1. Data Extraction
-2. Data Preparation: Data Cleaning and Wrangling and Data Manipulation
+2. Data Manipulation: Data Cleaning and Wrangling 
+3. Feature Construction
 
 ## Libraries: NumPy, Pandas, Matplotlib
 
 ## Certifications:
+
 
 
 ## Data Extraction:

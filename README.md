@@ -25,13 +25,14 @@ Researchers have found that the type of music you listen to may be even connecte
 3. Data Analysis with Python: Coursera
 4. Data Visualization with Python: Coursera
 5. The Ultimate Pandas BootCamp: Udemy
-6. Complete Course on Data Visualization: Udemy
-7. Interactive Dashboards with Plotly and Dash
-8. Python for Data Science and Machine Learning: Udemy
-9. 2022 Python BootCamp: Udemy
-10. Python A-Z: Udemy
-11. Pandas: Certification
-12. NumPy: Certification
+6. Data Analysis with Pandas and Python: Udemy
+7. Complete Course on Data Visualization: Udemy
+8. Interactive Dashboards with Plotly and Dash
+9. Python for Data Science and Machine Learning: Udemy
+10. 2022 Python BootCamp: Udemy
+11. Python A-Z: Udemy
+12. Pandas: Certification
+13. NumPy: Certification
 
 ## Professional Certifications:
 1. Data Analyst: IBM

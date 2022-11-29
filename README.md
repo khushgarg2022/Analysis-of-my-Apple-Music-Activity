@@ -16,7 +16,7 @@ Researchers have found that the type of music you listen to may be even connecte
 4. Data Analysis
 5. Data Visualization
 
-## Libraries: NumPy, Pandas, Matplotlib
+## Libraries: NumPy, Pandas, Plotly, Matplotlib
 
 ## Certifications:
 

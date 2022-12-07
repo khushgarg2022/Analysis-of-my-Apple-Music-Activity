@@ -20,19 +20,31 @@ Researchers have found that the type of music you listen to may be even connecte
 
 ## Certifications:
 
+A) Data Analysis:
+
+1. Data Analysis with Python : DataCamp
+2. Data Analysis with Python: Coursera
+3. The Ultimate Pandas BootCamp: Udemy
+4. Data Analysis with Pandas and Python: Udemy
+5. Python for Data Science and Machine Learning: Udemy
+
+B) Data Manipulation:
+
 1. Data Manipulation with Python: DataCamp
-2. Data Analysis with Python : DataCamp
-3. Data Analysis with Python: Coursera
-4. Data Visualization with Python: Coursera
-5. The Ultimate Pandas BootCamp: Udemy
-6. Data Analysis with Pandas and Python: Udemy
-7. Complete Course on Data Visualization: Udemy
-8. Interactive Dashboards with Plotly and Dash
-9. Python for Data Science and Machine Learning: Udemy
-10. 2022 Python BootCamp: Udemy
-11. Python A-Z: Udemy
-12. Pandas: Certification
-13. NumPy: Certification
+2. Importing and Cleaning Data in Python: DataCamp
+
+C) Data Visualization:
+
+1. Data Visualization with Python: Coursera
+2. Data Visualization with Python: DataCamp
+3. Complete Course on Data Visualization: Udemy
+4. Interactive Dashboards with Plotly and Dash
+
+D) Python Proficiency:
+
+1. 2022 Python BootCamp: Udemy
+2. Python A-Z: Udemy
+3. Python Programming: DataCamp Skill Track
 
 ## Professional Certifications:
 1. Data Analyst: IBM

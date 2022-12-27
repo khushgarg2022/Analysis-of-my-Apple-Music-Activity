@@ -50,5 +50,6 @@ D) Python Proficiency:
 1. Data Analyst: IBM
 2. Data Scientist: IBM
 
-
+Jupyter Notebook Link:
 Tableau Dashboard Link:
+Visualization Results:

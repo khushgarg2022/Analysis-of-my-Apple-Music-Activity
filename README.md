@@ -51,5 +51,5 @@ D) Python Proficiency:
 2. Data Scientist: IBM
 
 ## Jupyter Notebook Link:
-## Data Manipulation and Analysis: https://drive.google.com/file/d/1GC6-_i_frC0IAfjgMekMtXraHkC3Hzlv/view?usp=sharing
-## Visualization Results: https://drive.google.com/file/d/1G2QafUu15aF-4Bf_MCvN00UevqjQa-Lz/view?usp=sharing
+## Data Manipulation and Analysis: Project_Visualization.pdf
+## Visualization Results: 

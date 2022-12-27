@@ -51,5 +51,5 @@ D) Python Proficiency:
 2. Data Scientist: IBM
 
 ## Jupyter Notebook Link:
-## Data Manipulation and Analysis: Project_Visualization.pdf
-## Visualization Results: 
+## Data Manipulation and Analysis: 
+## Visualization Results: https://github.com/khushgarg2022/AppleMusicActivity-Analysis/blob/08aa30bdb609783e90ffa53fbb5727e1d8fcc934/Project_Visualization.pdf

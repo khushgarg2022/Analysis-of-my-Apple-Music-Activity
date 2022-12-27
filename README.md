@@ -51,18 +51,4 @@ D) Python Proficiency:
 2. Data Scientist: IBM
 
 
-
-## Data Extraction:
-Thanks to the European Union's General Data Protection Regulation (GDPR) requirements which were established in 2018, users have the right to access their personal data which includes information like basic identity information, webdata like location, IP addresses, cookie data. You can now request an electronic copy of your personal data, free of charge, upon request and can even inquire about how your data is used, stored, processed or transferred to other organizations. Every year, Spotify releases 'Spotify Wrapped' which is a feature completely driven by data collected by the Spotify platform to curate the 'perfect playlist'. However, Apple Music doesn't have this feature  and I have been a loyal Apple Music user since 2021. When I found out that I could request an archive with all my usage data since 2021, I requested a copy of my data following the required steps:
-
-1. Head to Apple’s Data and Privacy log in page
-2. Log in with the Apple ID for which you’d like to download data
-3. Under Get a copy of your data, click Get Started
-<img width="1157" alt="Screenshot 2022-10-23 at 1 31 46 AM" src="https://user-images.githubusercontent.com/116476247/197375971-c6eff7d3-d335-418e-a644-bbce028f237f.png">
-4. Select the data you’d like, 'App Store, Itunes Store, Apple Books and Apple Music'
-<img width="1055" alt="Screenshot 2022-10-23 at 1 31 54 AM" src="https://user-images.githubusercontent.com/116476247/197375987-cf6f289a-ac05-4f0a-98b9-a2505392503b.png">
-5. Choose the maximum default file size and click on Complete Request
-<img width="705" alt="Screenshot 2022-10-23 at 1 32 00 AM" src="https://user-images.githubusercontent.com/116476247/197375990-0153f2a4-2a66-4eac-83e8-eb9c69abe0b3.png">
-
-
 Tableau Dashboard Link:

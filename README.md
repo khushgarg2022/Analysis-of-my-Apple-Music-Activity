@@ -25,8 +25,7 @@ A) Data Analysis:
 1. Data Analysis with Python : DataCamp
 2. Data Analysis with Python: Coursera
 3. The Ultimate Pandas BootCamp: Udemy
-4. Data Analysis with Pandas and Python: Udemy
-5. Python for Data Science and Machine Learning: Udemy
+4. Python for Data Science and Machine Learning: Udemy
 
 B) Data Manipulation:
 
